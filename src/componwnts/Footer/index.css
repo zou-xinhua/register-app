@@ -1,0 +1,13 @@
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.f-container{
+    height: 64px;
+    line-height: 28px;
+    margin: 0 auto;
+    padding: 4px 0;
+    text-align: center;
+    background-color: #f5f5f7;
+}

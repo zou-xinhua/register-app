@@ -1,0 +1,14 @@
+.succ-main{
+  text-align: center;
+}
+.succ-main > div{
+  margin: 20px 0;
+}
+.succ-title{
+  font-size: 28px;
+  font-weight: bold;
+}
+.succ-content{
+  font-size: 18px;
+  color: #666;
+}

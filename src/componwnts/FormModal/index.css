@@ -1,0 +1,10 @@
+.m-title{
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.err{
+  display: flex;
+  margin: 0 auto;
+}
